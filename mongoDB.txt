@@ -3,3 +3,9 @@ The bootcamp i am using for my mongoDB study seems a bit old, not outdated, just
 Well today i learnt:
 1. Basics of CRUD operations
 2. i also learnt the syntax for the CRUD operations for interacting via the shell which is similar to the syntax for when operating on a node.js project.
+
+July 27
+What did i learn today?, well i learnt:
+1. i learnt some operators, like "$set", "$gt"
+2. i also learnt the difference between "find" and "findOne" and best use cases and also other queries difference.
+3. Do you know embedded documents?, well i learnt about it today.

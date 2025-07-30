@@ -23,3 +23,7 @@ So i used this tasks to reinforce my mongoDB knowledge today.
 July 29 
 Learnt about Data modeling
 learnt Data relations and their types e.g Nested/Embedded documents and Referencing.
+
+July 30
+learnt about ATOMICITY and also how to use the mongoDB import stuffs, had to download the tools from the official documents
+i am in 07/19 modules...Can say good progress.

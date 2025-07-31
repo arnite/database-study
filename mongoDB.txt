@@ -27,3 +27,6 @@ learnt Data relations and their types e.g Nested/Embedded documents and Referenc
 July 30
 learnt about ATOMICITY and also how to use the mongoDB import stuffs, had to download the tools from the official documents
 i am in 07/19 modules...Can say good progress.
+
+July 31
+i Just learnt more operators on mongoDB e.g $or, $nor, $express...did'nt learn for long today.

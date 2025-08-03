@@ -29,4 +29,4 @@ learnt about ATOMICITY and also how to use the mongoDB import stuffs, had to dow
 i am in 07/19 modules...Can say good progress.
 
 July 31
-i Just learnt more operators on mongoDB e.g $or, $nor, $express...did'nt learn for long today.
+i Just learnt more operators on mongoDB e.g $or, $nor, $express..did'nt learn for long today.

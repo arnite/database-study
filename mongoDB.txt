@@ -18,7 +18,7 @@ So i will just go throught the tasks i was assigned today in the bootcamp
 3. Find all patients who are older than 30.
 4. Delete all patients who got a cold as a disease
 
-So i used this tasks to reinforce my mongoDB knowledge today.
+So i used this tasks to reinforce my mongoDB knowledge today..
 
 July 29 
 Learnt about Data modeling
@@ -34,3 +34,6 @@ i Just learnt more operators on mongoDB e.g $or, $nor, $express...did'nt learn f
 August 4
 i learnt more about indexes and even completed the module.
 i started working with Geospatial data.
+
+i Just learnt more operators on mongoDB e.g $or, $nor, $express..did'nt learn for long today.
+

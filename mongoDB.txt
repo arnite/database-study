@@ -30,3 +30,7 @@ i am in 07/19 modules...Can say good progress.
 
 July 31
 i Just learnt more operators on mongoDB e.g $or, $nor, $express...did'nt learn for long today.
+
+August 4
+i learnt more about indexes and even completed the module.
+i started working with Geospatial data.

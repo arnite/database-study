@@ -35,5 +35,6 @@ August 4
 i learnt more about indexes and even completed the module.
 i started working with Geospatial data.
 
-i Just learnt more operators on mongoDB e.g $or, $nor, $express..did'nt learn for long today.
-
+August 5
+Concluded my Geospatial data module and started Aggregation pipeline module
+Curently in the definition of Aggregation and learning some operators like $sort, $match and $group.
